@@ -1,0 +1,66 @@
+#hdr{
+				background-image: url("pics/mcrcover.jpg");
+				background-attachment:fixed;
+				background-size: 100% 20%;
+				background-repeat: no-repeat;
+				height: 125px;
+			}
+			table{
+				height: 100%;
+				width: 100%;
+			}
+			.tbl{
+				border: 1px solid black;
+			}
+			.one{
+				background-color: rgb(96,149,219);
+			}
+			.two{
+				background-color: rgb(236,236,233);
+			}
+			.three{
+				background-color: rgb(219,246,211);
+			}
+			#stab{
+    		height: 180px;
+    		width: 100%;
+    	}
+    	.t{
+    		height: 135px;
+    		width: 14.28%;
+    		
+    	}
+    	.topic{
+    		height: 40px;
+    		text-align:center;
+    	}
+ 
+.ad{
+	background-image: url("pics/appdev.png");
+}
+.am{
+	background-image: url("pics/appm.png");
+}
+.wm{
+	background-image: url("pics/webmakr.png");
+}
+.sm{
+	background-image: url("pics/sumomcr.png");
+}
+.ln{
+	background-image: url("pics/l10n.png");
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+.mdn{
+	background-image: url("pics/mdn1.png");
+}
+.womoz{
+	background-image: url("pics/womozilla.png");
+}
+.fb{
+	background-image: url("pics/fblike.png");
+}
+.fsa{
+	background-image: url("pics/fsa.png");
+}
